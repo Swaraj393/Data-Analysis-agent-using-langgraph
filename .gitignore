@@ -1,0 +1,6 @@
+.env
+myenv/
+__pycache__/
+data_sandbox_*.csv
+uploaded_user_dataset.csv
+analysis_chart.png
